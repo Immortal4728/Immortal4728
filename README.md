@@ -71,14 +71,13 @@ A full-stack platform connecting farmers and buyers.
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Database
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🛠 Tools
