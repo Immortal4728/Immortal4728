@@ -20,6 +20,10 @@ A full-stack platform connecting farmers and buyers.
 
 👉 https://farmlink-portfolio.vercel.app
 
+🔥 Project Immortal
+A full-stack platform built with Spring Boot, React, and PostgreSQL focused on user management, admin dashboards, and platform operations.
+
+👉https://project-immortal.vercel.app/
 ---
 
 ## 🌱 Currently Learning
